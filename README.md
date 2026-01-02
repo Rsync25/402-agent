@@ -7,10 +7,6 @@ This dashboard features:
 - Dark mode toggle (with persistent state via localStorage)
 - Placeholder sections for displaying recent transactions, active agents, and payment summaries
 
-![Dashboard Screenshot Light Mode](https://via.placeholder.com/800x450?text=Dashboard+Light+Mode)
-
-![Dashboard Screenshot Dark Mode](https://via.placeholder.com/800x450?text=Dashboard+Dark+Mode)
-
 ## Features
 
 - **Sidebar Layout**: Clean navigation for Home, Payments, Agents, Transactions, and Settings.
